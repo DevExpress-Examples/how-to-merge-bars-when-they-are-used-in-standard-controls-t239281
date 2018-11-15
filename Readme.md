@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication20/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication20/MainWindow.xaml))
+<!-- default file list end -->
 # How to: Merge Bars When They are Used in Standard Controls
 
 
